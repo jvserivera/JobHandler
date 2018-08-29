@@ -90,9 +90,6 @@ public class Employee {
 		}else{
 			return 0;
 		}
-			
-		//Add Code Here [You have to use If/Else to get graded]
-		
 		
 		
 	}
